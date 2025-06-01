@@ -19,6 +19,25 @@
 
 ## Tools & Techniques Used
 - **Language**: Python (3.12.1)
+- **Modules**:
+    - ***customtkinter*** [modern GUI widgets and buttons]
+    - ***tkinter*** [basic window and layout management - in this case used only for messagebox dialogs]
+    - ***pytubefix*** [downloading YouTube videos]
+    - ***threading*** [run download process in the background]
+    - ***os*** [file paths and directory handling]
+    - ***subprocess*** [open video in external video player]
+    - ***platform*** [detect the operating system]
+- **Built-in Functions**
+    - ***range()*** 
+- **Built-in/Custom Types**
+    - ***number*** [```percent = downloaded / total_size```]
+    - ***class*** [```class YouTubeDownloaderApp:```]
+    - ***def (functions)*** [```def start_download(self):```]
+    - ***sequence (range)*** [```for i in range(6):```]
+      
+- **Error Handling**
+    - ***try ... except ... finally + raise***
+    - ***Exception (class)*** 
   
 ## Running Locally
 1. Clone the repository
