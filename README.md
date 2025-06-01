@@ -24,8 +24,8 @@
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/MiloosN5/PYTHON__001__PyTaskManager.git
-   cd PYTHON__001__PyTaskManager
+   git clone https://github.com/MiloosN5/PYTHON__002__TubeDownloaderGUI.git
+   cd PYTHON__002__TubeDownloaderGUI
    
 2. Set Up a Virtual Environment (Optional)
     ```bash
