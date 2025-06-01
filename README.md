@@ -6,7 +6,7 @@
 
 ## Preview
 
-
+<img src="./previews/preview_1.png">
 
 ## Description 
 - A Python application that downloads YouTube videos using the pytubefix module and plays them using an external video player.
