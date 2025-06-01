@@ -34,10 +34,19 @@
     - ***class*** [```class YouTubeDownloaderApp:```]
     - ***def (functions)*** [```def start_download(self):```]
     - ***sequence (range)*** [```for i in range(6):```]
-      
 - **Error Handling**
     - ***try ... except ... finally + raise***
-    - ***Exception (class)*** 
+    - ***Exception (class)***
+- **Responsiveness**
+    - ***<Configure> event binding + custom "on_resize" function*** [detects window resize and updates layout accordingly]
+- **GUI**
+    - ***messagebox*** [tkinter]
+    - ***CTkFrame*** [customtkinter]
+    - ***CTkLabel*** [customtkinter]
+    - ***CTkFont*** [customtkinter]
+    - ***CTkEntry*** [customtkinter]
+    - ***CTkButton*** [customtkinter]
+    - ***CTkProgressBar*** [customtkinter]
   
 ## Running Locally
 1. Clone the repository
