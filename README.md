@@ -3,10 +3,11 @@
 ## Project Overview 
 - **name**: TubeDownloaderGUI
 - **type**: GUI (Graphical User Interface) app
+- **Live**: [❌]
 
 ## Preview
 
-<img src="./previews/preview_1.png">
+<img src="./previews/preview_2.png">
 
 ## Description 
 - A Python application that downloads YouTube videos using the pytubefix module and plays them using an external video player.
