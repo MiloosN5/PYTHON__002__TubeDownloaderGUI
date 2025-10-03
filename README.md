@@ -58,9 +58,9 @@
    
 2. Set Up a Virtual Environment (Optional) & Activate
     ```bash
-        python -m venv venv # default Python version (whichever is first in PATH)
+        python -m venv venv # cross-platform, default Python version (whichever is first in PATH)
         # or
-        py -3.12 -m venv venv # specify exact Python version
+        py -3.12 -m venv venv # on Windows, specify exact Python version
         # then 
         venv\Scripts\activate # on Windows
     ```
