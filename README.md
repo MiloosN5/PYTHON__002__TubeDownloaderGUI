@@ -56,9 +56,12 @@
    git clone https://github.com/MiloosN5/PYTHON__002__TubeDownloaderGUI.git
    cd PYTHON__002__TubeDownloaderGUI
    
-2. Set Up a Virtual Environment (Optional)
+2. Set Up a Virtual Environment (Optional) & Activate
     ```bash
-        python -m venv venv
+        python -m venv venv # default Python version (whichever is first in PATH)
+        # or
+        py -3.12 -m venv venv # specify exact Python version
+        # then 
         venv\Scripts\activate # on Windows
     ```
 3. Install Dependencies
